@@ -1,0 +1,68 @@
+h1 { 
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    line-height: normal;
+
+}
+h2 {
+    color: red;
+    font-family: fantasy;
+    font-size: 20px;
+
+}
+body {
+    
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    font-weight: lighter;
+}
+a {
+    color: coral;
+    text-decoration: darkgoldenrod;
+
+
+}
+a:hover {
+    color: darkgreen;
+}
+
+.container {
+    width: 500px;  
+  margin: 0 auto;
+}
+
+
+.card {
+    background-color: white;
+padding: 40px;
+box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+border-radius: 4px;
+margin: 20px 0px;
+text-align: center;
+
+}
+#socials a {
+    text-align: center;
+    font-size: 30px;
+    display: inline;
+}
+
+
+ul {
+    list-style: none;
+    background-color: white;
+    padding: 40px;
+    margin: 20px 0px;
+    text-align: center;
+    display: flex;
+}
+.btn-blue {
+    background-color: aqua;
+    color: brown;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+.btn-blue:hover {
+    color: violet;
+}
